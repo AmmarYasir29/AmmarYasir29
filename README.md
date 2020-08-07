@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there, I'm Ammar 👋
 
-<!--
-**AmmarYasir29/AmmarYasir29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Coder, and Student!
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🌱 I’m currently learning everything about Web 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: professional programming frontEnd
+- ⚡ Fun fact: I love to Reade book and watch Video
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Vue" width="26px" src="data:image/png;base64,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" />][reactplaylist]
+[<img align="left" alt="Firebase" width="26px" src="data:image/png;base64,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" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<br />
+<br />
+
+
+[twitter]: https://twitter.com/AMMARYASIR29
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/ammaryaser29
+[linkedin]: https://linkedin.com/in/ammaryaser29
+[webdevplaylist]: https://www.youtube.com/watch?v=--PlW3sITcI
