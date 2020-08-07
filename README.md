@@ -1,7 +1,7 @@
 ### Hi there, I'm Ammar 👋
 
 ## I'm a Coder, and Student!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a[website]!
 - 🌱 I’m currently learning everything about Web 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: professional programming frontEnd
@@ -35,9 +35,9 @@
 <br />
 <br />
 
-
+[website]: https://github.com/AmmarYasir29/dashboard-Vue
 [twitter]: https://twitter.com/AMMARYASIR29
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UCrg1OXlp2imPo-ZG-uhv2Gg?view_as=subscriber
 [instagram]: https://instagram.com/ammaryaser29
 [linkedin]: https://linkedin.com/in/ammaryaser29
 [webdevplaylist]: https://www.youtube.com/watch?v=--PlW3sITcI
