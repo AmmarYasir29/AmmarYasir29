@@ -1,7 +1,7 @@
 ### Hi there, I'm Ammar 👋
 
 ## I'm a Coder, and Student!
-- 🔭 I’m currently working on a[website]!
+- 🔭 I’m currently working on a [website]!
 - 🌱 I’m currently learning everything about Web 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: professional programming frontEnd
