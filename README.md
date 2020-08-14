@@ -1,7 +1,7 @@
 ### Hi there, I'm Ammar 👋
 
 ## I'm a Coder, and Student!
-- 🔭 I’m currently working on a [website]!
+- 🔭 I’m currently looking for work!
 - 🌱 I’m currently learning everything about Web 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: professional programming frontEnd
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -48,7 +48,7 @@
 <br />
 <br />
 
-[website]: https://github.com/AmmarYasir29/dashboard-Vue
+[facebook]: https://www.facebook.com/ammaryasir29/
 [twitter]: https://twitter.com/AMMARYASIR29
 [youtube]: https://www.youtube.com/channel/UCrg1OXlp2imPo-ZG-uhv2Gg?view_as=subscriber
 [instagram]: https://instagram.com/ammaryaser29
