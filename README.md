@@ -37,12 +37,12 @@
 
 ### Project:
 
-1-[dashboard]
-2-[Weather]
-3-[lodash-library]
-4-[player-game]
-5-[Todo-List]
-6-[Luhn-algorithm]
+-[dashboard]
+-[Weather]
+-[lodash-library]
+-[player-game]
+-[Todo-List]
+-[Luhn-algorithm]
 
 
 <br />
