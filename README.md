@@ -1,11 +1,11 @@
 ### Hi there, I'm Ammar 👋
 
 ## I'm a Coder, and Student!
-- 🔭 I’m currently looking for work!
+- 🔭 I’m currently looking for programming work!
 - 🌱 I’m currently learning everything about Web 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: professional programming frontEnd
-- ⚡ Fun fact: I love to Reade book and watch Video
+- ⚡ Fun fact: I love to Read book and watch Video
 
 ### Connect with me:
 
