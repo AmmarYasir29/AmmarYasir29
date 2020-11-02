@@ -1,6 +1,6 @@
 ### Hi there, I'm Ammar 👋
 
-## I'm a Coder, and Student!
+## I'm a Coder, and graduate!
 - 🔭 I’m currently looking for programming work!
 - 🌱 I’m currently learning everything about Web 🤣
 - 👯 I’m looking to collaborate with other content creators
