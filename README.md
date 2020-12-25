@@ -51,9 +51,9 @@
 
 - [Weather-App]
 - [dashboard-App]
+- [Printer]
 
-
-
+[Printer]: https://printer-iq.netlify.app/
 [facebook]: https://www.facebook.com/ammaryasir29/
 [twitter]: https://twitter.com/AMMARYASIR29
 [youtube]: https://www.youtube.com/channel/UCrg1OXlp2imPo-ZG-uhv2Gg?view_as=subscriber
