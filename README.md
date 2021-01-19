@@ -39,11 +39,14 @@
 ### Project:
 
 - [dashboard]
+- [Printer-React]
+- [Printer-Express]
 - [Weather]
 - [lodash-library]
 - [player-game]
 - [Todo-List]
 - [Luhn-algorithm]
+- [VB-NET]
 
 <br />
 
@@ -52,7 +55,8 @@
 - [Weather-App]
 - [dashboard-App]
 - [Printer]
-
+[Printer-Express]: https://github.com/AmmarYasir29/Printer-IQ
+[Printer-React]: https://github.com/AmmarYasir29/Printer-react
 [Printer]: https://printer-iq.netlify.app/
 [facebook]: https://www.facebook.com/ammaryasir29/
 [twitter]: https://twitter.com/AMMARYASIR29
@@ -60,11 +64,12 @@
 [instagram]: https://instagram.com/ammaryaser29
 [linkedin]: https://linkedin.com/in/ammaryaser29
 [webdevplaylist]: https://www.youtube.com/watch?v=HIg7cDa0nGo
-[Weather]: https://github.com/AmmarYasir29/Weather
-[player-game]: https://github.com/AmmarYasir29/player-game
-[dashboard]: https://github.com/AmmarYasir29/dashboard-Vue
-[Todo-List]: https://github.com/AmmarYasir29/Todo-List
+[VB-NET]: https://github.com/AmmarYasir29/VB.NET
+[Weather]: https://github.com/AmmarYasir29/static-website/tree/master/weather
+[player-game]: https://github.com/AmmarYasir29/player-game-vue-app
+[dashboard]: https://github.com/AmmarYasir29/Dashboard-vue-app
+[Todo-List]: https://github.com/AmmarYasir29/TodoList-Vue-app
 [Luhn-algorithm]: https://github.com/AmmarYasir29/Luhn-algorithm
-[lodash-library]: https://github.com/AmmarYasir29/lodash
+[lodash-library]: https://github.com/AmmarYasir29/static-website/tree/master/lodash
 [Weather-App]: https://ammar.netlify.app/
 [dashboard-App]: https://vuejs-dashboard.netlify.app/#/
