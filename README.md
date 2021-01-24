@@ -41,6 +41,7 @@
 - [dashboard]
 - [Printer-React]
 - [Printer-Express]
+- [Yelp]
 - [Weather]
 - [lodash-library]
 - [player-game]
@@ -55,11 +56,15 @@
 - [Weather-App]
 - [dashboard-App]
 - [Printer]
+- [Yelp-react]
+
 
 
 [Printer-Express]: https://github.com/AmmarYasir29/Printer-IQ
 [Printer-React]: https://github.com/AmmarYasir29/Printer-react
 [Printer]: https://printer-iq.netlify.app/
+[Yelp]: https://github.com/AmmarYasir29/Yelp
+[Yelp-react]: https://yelp-iq.netlify.app/
 [facebook]: https://www.facebook.com/ammaryasir29/
 [twitter]: https://twitter.com/AMMARYASIR29
 [youtube]: https://www.youtube.com/channel/UCrg1OXlp2imPo-ZG-uhv2Gg?view_as=subscriber
