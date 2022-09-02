@@ -51,6 +51,7 @@
   1. [Backend-Dashboard]
   2. [Express-TypeORM]
   3. [Telegram-bot]
+  4. [Rest API using Oracle DB]
 - STATIC WEBSITE (HTML-CSS and JS)
   1. [Weather]
   2. [More-than-12-web-page]
@@ -86,6 +87,7 @@
 [Backend-Dashboard]: https://github.com/AmmarYasir29/backendDashboard
 [Express-TypeORM]: https://github.com/AmmarYasir29/Express-TypeORM
 [Telegram-bot]:https://github.com/AmmarYasir29/Telegram-Bot
+[Rest API using Oracle DB]: https://github.com/AmmarYasir29/oracle-REST-API
 [Weather]: https://github.com/AmmarYasir29/static-website/tree/master/weather
 [More-than-12-web-page]: https://github.com/AmmarYasir29/static-website
 [TensorFlow]: https://github.com/AmmarYasir29/tensorflowJS
